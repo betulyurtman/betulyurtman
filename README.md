@@ -1,9 +1,7 @@
 ### Hi there 👋 
 Thank you for visiting my profile :)
 
-🔭 I’m currently working on Data Science projects :)
-
-🌱 I’m currently learning Python & R & Neural Networks
+🌱 I’m currently working on Data Science projects :)
 
 🎓 MSc in Data Science for Society and Business @ Constructor University (2024–)
 
