@@ -5,4 +5,4 @@ Thank you for visiting my profile :)
 
 🎓 MSc in Data Science for Society and Business @ Constructor University (2024–)
 
-📫 You can reach me from: betullyurtman@gmail.com or https://twitter.com/betandDS
+📫 You can reach me from: b.yurtman@outlook.com or https://twitter.com/betandDS
